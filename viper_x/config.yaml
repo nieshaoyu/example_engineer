@@ -1,0 +1,7 @@
+Database:
+  Username: "root"
+  Password: "123456"
+  Port: 3306
+  Drive: "mysql"
+
+Env: dev
